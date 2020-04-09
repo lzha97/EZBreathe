@@ -1,5 +1,5 @@
 # DIY-Ventilator-Design-Challenge
-Project Proposal for Columbia University DIY-Ventilator-Design-Challenge (April 4-22)
+Project Proposal for Columbia University DIY-Ventilator-Design-Challenge (April 2-6)
 
 https://engineering.columbia.edu/diy-ventilator-challenge
 
