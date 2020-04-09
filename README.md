@@ -5,6 +5,8 @@ https://engineering.columbia.edu/diy-ventilator-challenge
 
 **Project Team Members:** Annie Lin, Mojde Yadollahikhales, Isabela Yepes, Lillian Zha 
 
+![](animation.gif)
+
 ## Included: 
 
 - Animation of Pump Mechanism 
