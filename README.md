@@ -11,6 +11,7 @@ https://engineering.columbia.edu/diy-ventilator-challenge
 - CAD files for design parts (credit to Annie Lin)
 - Total Assembly CAD file
 - Proposal Presentation
+- mp4 of Animation
 
 
 ## To be added: 
