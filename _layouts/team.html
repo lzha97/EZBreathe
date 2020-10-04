@@ -7,18 +7,19 @@
 
     <div class="page-content">
       <div class="wrapper">
-        <div class="work">
+        <div class="team">
           <h1 class="page-heading">{{ page.title }}</h1>
           {{ content }}
 
           {% for item in page.items %}
-          <div class="work-item">
+          <div class="team-item">
             <img
               src="{{ item.image.src | absolute_url }}"
               alt="{{ item.image.alt }}"
-              class="work-bubble"
+              class="team-bubble"
+
             />
-            <span class="work-text">
+            <span class="team-text" style='margin-left:15px;'>
               <strong>{{ item.title }}</strong>
               &mdash;
               {{ item.description }}
